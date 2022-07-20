@@ -29,3 +29,99 @@ header nav ul li a {
     font-weight: 700;
     font-size: 18px;
 }
+.topo-first{
+    padding: 80px 206px 12px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: block;
+}
+.content{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.img {
+    margin-left: 15%;
+}
+.titulo-topo{
+    margin-left: 60px;
+    margin-right: 20px;
+}
+.titulo-topo h1{
+    margin-bottom: 20px;
+    color: #ff4081;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 68.94px;
+}
+.titulo-topo p{
+    font-weight: 400;
+    color: #555555;
+    font-size: 27px;
+    line-height: 31.02px;
+    box-sizing: border-box;
+    display: block;
+    padding: 12px 0px 12px 0px;
+}
+.button-topo button{
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 62px;
+    border: 2px solid #FF4081;
+    padding: 10px 30px 10px 30px;
+    background-color: #F7F7F7;
+}
+.button-topo a{
+    text-decoration: none;
+    color: #FF4081;
+    font-size: 27px;
+}
+.img-three{
+    margin-left: 20%;
+}
+.img-two{
+    margin-left: 20%;
+}
+.img-one{
+    margin-left: 20%;
+}
+.nova-caixa {
+    display: flex;
+    margin-top: 10%;
+    padding: 100px;
+    align-items: center;
+    background: #F7F7F7;
+}
+.nova-caixa h2{
+    color: #FF4081;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 35px;
+    padding: 0px 0px 0px 70px;
+}
+.nova-caixa p{
+    margin-top: 35px;
+    font-size: 17px;
+    line-height: 19.53px;
+    font-weight: 300;
+    text-align: center;
+    padding:10px;
+}
+.nova-caixa button{
+    align-items: center;
+    width: 233px;
+    height: 51px;
+    margin-top: 45px;
+    background-color: #FF4081;
+    border-radius: 62px;
+    border-color: #FF4081;
+    cursor: pointer;
+}
+
+.caixa-um button span a{
+font-weight: 20.27px;
+padding: 20px;
+color: #F7F7F7;
+font-size: 20px;
+text-decoration: none;
+}
