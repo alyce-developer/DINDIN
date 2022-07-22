@@ -1,0 +1,133 @@
+body {
+    margin: auto;
+}
+* {  
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    background-color: #2E948A;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 103px 26px 82px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+}
+header nav ul {
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+}
+header nav ul li {
+    padding: 0px 30px;
+}
+header nav ul li a {
+    text-decoration: none;
+    color: #FDFDFD;
+    font-weight: 700;
+    font-size: 18px;
+}
+footer {
+    display: flex;
+    background-color: #419488;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 103px 26px 82px;
+}
+footer img {
+    padding: 0px 70px;
+}
+#lista {
+    text-decoration: none;
+    list-style: none;
+    padding: 0px 30px 0px 0px;
+    line-height: 25px;
+}
+#lista a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+}
+.footer-link1 {
+    box-sizing: border-box;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+    padding: 10px 50px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.footer-link1 a {
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.footer-link2 {
+    box-sizing: border-box;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+    padding: 10px 50px;
+    margin-top: 10px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.footer-link2 a {
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.topo-first {
+    padding: 80px 206px 100px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: block;    
+}
+.content{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.img {
+    margin-left: 20%;
+}
+.titulo-topo h1 {
+    font-size: 47px;
+    color: #009688;
+    font-weight: 700;
+    padding: 30px 0px 40px 70px;
+}
+.titulo-topo p {
+    font-size: 20px;
+    font-weight: 300;
+    padding: 0px 0px 70px 70px;
+    margin-right: 20%;
+}
+.caixa {
+    background-color: #E5E5E5;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.first {
+    display: flex;
+    padding: 0px 60px;
+}
+.sub-text {
+    padding: 0px 55px;
+    margin-bottom: 10%;
+}
+.sub-text h3 {
+    color: #FF4081;
+    font-size: 28px;
+    font-weight: 500;
+    padding: 15px 0px;
+}
+.sub-text p {
+    font-size: 17px;
+    font-weight: 300;
+    padding-bottom: 0px;
+}
