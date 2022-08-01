@@ -1,4 +1,4 @@
-# First-Hands-On
+# DINDIN 
 Primeiro desafio Hands On em HTML e CSS 
 
 <p align="center"><img alt="Dindin" height="64" src="./img/logo-footer.png"></p>
